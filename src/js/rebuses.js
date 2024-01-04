@@ -76,7 +76,7 @@ const rebuses = [
   {
     symbols: ['H', '=', 'C', '👒'],
     words: ['Cat'],
-    hint: `It's raining ____ and dogs`
+    hint: `It's raining ____s and dogs`
   },
   {
     symbols: ['FR', '=', 'D', '🐸'],
@@ -121,7 +121,7 @@ const rebuses = [
   {
     symbols: ['🔑', '🐗', '+', 'd'],
     words: ['Keyboard'],
-    hint: `You're typing with one`
+    hint: `You're typing with a ____`
   },
   {
     symbols: ['💵', '+', 'ew'],
@@ -851,7 +851,7 @@ const rebuses = [
   {
     symbols: ['🚐', '+', 'Gogh'],
     words: ['van', 'Gogh'],
-    hint: 'Famous Dutch painter.'
+    hint: 'Famous Dutch painter known for Starry Night among others.'
   },
   {
     symbols: ['🖖'],
@@ -902,6 +902,11 @@ const rebuses = [
     symbols: ['🦀', '+', '🎂'],
     words: ['crab', 'cake'],
     hint: 'A delicious appetizer'
+  }
+  {
+    symbols: ['🧈', '+', '🪰'],
+    words: ['butterfly'],
+    hint: 'Small insects with large wings'
   }
 ];
 
